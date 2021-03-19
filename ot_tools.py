@@ -3,6 +3,7 @@ import requests
 import settings,socket
 
 
+
 def analiz_func(name_vol, volume):
     print(name_vol, volume, type(volume))
 
